@@ -30,3 +30,9 @@ Internet of Things
 
 <img src="screenshots/accessing_via_app.png" height="300em" /> <img src="screenshots/automatic_detection_demo.jpeg" height="300em" />
 
+### Link to the demo videos:
+
+Intelligent Control System Part -1: https://youtu.be/X-nzhUl9v1k
+
+Intelligent Control System Part -2: https://youtu.be/kmXmurr8Y8E
+
