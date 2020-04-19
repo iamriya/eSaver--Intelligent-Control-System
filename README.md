@@ -28,5 +28,5 @@ Internet of Things
 
 ## Demo of the project
 
-<img src="screenshots/accessing_via_app.png" height="300em" /> <img src="screenshots/automatic_detection_demo.jpeg" height="300em" />
+<img src="screenshots/accessing_via_app.jpeg" height="300em" /> <img src="screenshots/automatic_detection_demo.jpeg" height="300em" />
 
